@@ -1,0 +1,4 @@
+Open Config with notepad and change the username and password to your instagram user and pass
+you can edit the comments it will do
+you can edit the tags (the categories, eg. if you put fortnite as the first tag the posts will be about fortnite)
+you can edit how many comments per tag.
